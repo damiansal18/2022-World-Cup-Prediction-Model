@@ -1,0 +1,38 @@
+    home     score                away  year
+48  Winners Group A  Match 49  Runners-up Group B  2022
+49  Winners Group C  Match 50  Runners-up Group D  2022
+50  Winners Group D  Match 52  Runners-up Group C  2022
+51  Winners Group B  Match 51  Runners-up Group A  2022
+52  Winners Group E  Match 53  Runners-up Group F  2022
+53  Winners Group G  Match 54  Runners-up Group H  2022
+54  Winners Group F  Match 55  Runners-up Group E  2022
+55  Winners Group H  Match 56  Runners-up Group G  2022
+            home     score         away  year winner
+48   Netherlands  Match 49         Iran  2022      ?
+49        Poland  Match 50    Australia  2022      ?
+50    France (A)  Match 52    Argentina  2022      ?
+51       England  Match 51      Ecuador  2022      ?
+52         Spain  Match 53      Morocco  2022      ?
+53    Brazil (A)  Match 54        Ghana  2022      ?
+54       Croatia  Match 55        Japan  2022      ?
+55  Portugal (A)  Match 56  Switzerland  2022      ?
+            home     score         away  year       winner
+48   Netherlands  Match 49         Iran  2022  Netherlands
+49        Poland  Match 50    Australia  2022       Poland
+50    France (A)  Match 52    Argentina  2022    Argentina
+51       England  Match 51      Ecuador  2022      England
+52         Spain  Match 53      Morocco  2022        Spain
+53    Brazil (A)  Match 54        Ghana  2022        Ghana
+54       Croatia  Match 55        Japan  2022      Croatia
+55  Portugal (A)  Match 56  Switzerland  2022  Switzerland
+           home     score         away  year       winner
+56        Spain  Match 58        Ghana  2022        Spain
+57  Netherlands  Match 57       Poland  2022  Netherlands
+58      Croatia  Match 60  Switzerland  2022      Croatia
+59      England  Match 59    Argentina  2022    Argentina
+           home     score     away  year       winner
+60  Netherlands  Match 61    Spain  2022  Netherlands
+61    Argentina  Match 62  Croatia  2022    Argentina
+               home     score             away  year           winner
+62  Losers Match 61  Match 63  Losers Match 62  2022  Losers Match 62
+63      Netherlands  Match 64        Argentina  2022      Netherlands
